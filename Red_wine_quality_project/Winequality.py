@@ -5,7 +5,7 @@ import os
 
 
 #you need to be placed in same directory where winequality-red.csv is placed
-#you can uss the method chdir() from the module os
+#you can use the method chdir() from the class os
 #os.chdir()
 
 
