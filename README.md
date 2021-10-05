@@ -5,6 +5,6 @@ popular ML (Maching Learning) methods for Regression and Classification.
 
 ## Summary
 	
-	* Wine Quality 
-	* Digit Recognition 
+	* *** Wine Quality ***
+	* *** Digit Recognition ***
 	
