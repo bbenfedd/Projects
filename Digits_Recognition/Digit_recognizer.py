@@ -46,6 +46,7 @@ confusion_matrix = confusion_matrix(Y_test, predicted)
 #disp = metrics.plot_confusion_matrix(svm, X_test, Y_test)
 #disp.figure_.suptitle("Confusion Matrix")
 disp = ConfusionMatrixDisplay(confusion_matrix=confusion_matrix)
+
 disp.plot()
 plt.show()
 
