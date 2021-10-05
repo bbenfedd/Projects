@@ -4,7 +4,7 @@ In this repository, I uploaded projects that I worked on for my own interest, it
 popular ML (Maching Learning) methods for Regression and Classification.
 
 ## Summary
-	<ul>
-		<li> Wine Quality </li>
-		<li> Digit Recognition </li>
-	</ul>
+	
+	* Wine Quality 
+	* Digit Recognition 
+	
