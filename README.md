@@ -7,4 +7,5 @@ popular ML (Maching Learning) methods for Regression and Classification.
 	
 	* Red Wine Quality
 	* Digits Recognition
+	* Breast Cancer Detection
 	
