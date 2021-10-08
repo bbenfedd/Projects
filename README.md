@@ -9,3 +9,6 @@ popular ML (Maching Learning) methods for Regression and Classification.
 	* Digits Recognition
 	* Breast Cancer Detection
 	
+### Red Wine Quality
+In this project I used multiple linear regression as ML method and for that I choosed scikit-learn and R 
+	
